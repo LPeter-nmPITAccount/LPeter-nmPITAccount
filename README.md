@@ -10,6 +10,8 @@
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=seja+bem-vindo(a)!+👋;Esta+é+minha+conta+acadêmica.;Aqui+registro+minha+jornada+no+curso.;Aprendendo+e+evoluindo+todos+os+dias+🚀)](https://git.io/typing-svg)
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=LPeter-nmPITAccount&theme=tokyonight-duo&hide_border=true&locale=pt_BR&card_width=1020)](https://git.io/streak-stats)
 
 </div>
 
