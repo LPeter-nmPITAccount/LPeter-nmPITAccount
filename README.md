@@ -86,7 +86,6 @@ status:      Em constante atualização 📚
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LPeter-nmPITAccount/LPeter-nmPITAccount/output/github-contribution-grid-snake.svg">
 </picture>
 
-> Para ativar a animação da cobrinha, veja as instruções abaixo ↓
 
 </div>
 
@@ -96,8 +95,6 @@ status:      Em constante atualização 📚
 <div align="center">
 
 **📚 Conta dedicada ao curso · Projetos profissionais na [conta principal →](https://github.com/LPeter-nm)**
-
-<img src="https://komarev.com/ghpvc/?username=LPeter-nmPITAccount&color=58A6FF&style=flat-square&label=Visitas+ao+perfil" />
 
 </div>
 
