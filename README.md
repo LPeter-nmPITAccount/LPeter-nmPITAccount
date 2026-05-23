@@ -9,7 +9,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+seja+bem-vindo(a)!+👋;Esta+é+minha+conta+acadêmica.;Aqui+registro+minha+jornada+no+curso.;Aprendendo+e+evoluindo+todos+os+dias+🚀" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=seja+bem-vindo(a)!+👋;Esta+é+minha+conta+acadêmica.;Aqui+registro+minha+jornada+no+curso.;Aprendendo+e+evoluindo+todos+os+dias+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +21,7 @@
 > 🎓 **Esta é minha conta secundária**, dedicada exclusivamente às atividades do meu curso.
 > Para ver meus projetos pessoais e profissionais, acesse minha conta principal:
 
-### 🔗 [→ Ir para minha conta principal no GitHub](https://github.com/SEU-USUARIO-PRINCIPAL)
+### 🔗 [→ Ir para minha conta principal no GitHub](https://github.com/LPeter-nm)
 
 </div>
 
@@ -41,8 +41,6 @@ status:      Em constante atualização 📚
 
 <!-- TECNOLOGIAS -->
 ## 🛠️ Tecnologias & Ferramentas
-
-> ⚙️ *Adicione abaixo as tecnologias que você utiliza/aprendeu no curso:*
 
 <!-- 
   COMO USAR:
@@ -70,29 +68,10 @@ status:      Em constante atualização 📚
 -->
 
 &nbsp;
-<!-- Cole seus badges aqui 👇 -->
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 &nbsp;
-
----
-
-<!-- ESTATÍSTICAS -->
-## 📊 Estatísticas desta conta
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-
-</div>
 
 ---
 
@@ -102,9 +81,9 @@ status:      Em constante atualização 📚
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LPeter-nmPITAccount/LPeter-nmPITAccount/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LPeter-nmPITAccount/LPeter-nmPITAccount/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LPeter-nmPITAccount/LPeter-nmPITAccount/output/github-contribution-grid-snake.svg">
 </picture>
 
 > Para ativar a animação da cobrinha, veja as instruções abaixo ↓
@@ -116,9 +95,9 @@ status:      Em constante atualização 📚
 <!-- RODAPÉ -->
 <div align="center">
 
-**📚 Conta dedicada ao curso · Projetos profissionais na [conta principal →](https://github.com/SEU-USUARIO-PRINCIPAL)**
+**📚 Conta dedicada ao curso · Projetos profissionais na [conta principal →](https://github.com/LPeter-nm)**
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=58A6FF&style=flat-square&label=Visitas+ao+perfil" />
+<img src="https://komarev.com/ghpvc/?username=LPeter-nmPITAccount&color=58A6FF&style=flat-square&label=Visitas+ao+perfil" />
 
 </div>
 
