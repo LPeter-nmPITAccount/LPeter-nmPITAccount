@@ -74,22 +74,6 @@ status:      Em constante atualização 📚
 &nbsp;
 
 ---
-
-<!-- GRÁFICO DE CONTRIBUIÇÕES -->
-## 🐍 Histórico de Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LPeter-nmPITAccount/LPeter-nmPITAccount/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LPeter-nmPITAccount/LPeter-nmPITAccount/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LPeter-nmPITAccount/LPeter-nmPITAccount/output/github-contribution-grid-snake.svg">
-  </picture>
-
-
-</div>
-
----
-
 <!-- RODAPÉ -->
 <div align="center">
 
@@ -97,26 +81,3 @@ status:      Em constante atualização 📚
 
 </div>
 
----
-
-<!--
-════════════════════════════════════════
-📋 INSTRUÇÕES DE CONFIGURAÇÃO
-════════════════════════════════════════
-
-1. SUBSTITUIÇÕES OBRIGATÓRIAS:
-   - "SEU-USUARIO-AQUI"        → seu username desta conta secundária
-   - "SEU-USUARIO-PRINCIPAL"   → seu username da conta principal
-
-2. TECNOLOGIAS:
-   - Descomente os badges que usar em "Tecnologias & Ferramentas"
-   - Ou gere novos em: https://shields.io
-
-3. ANIMAÇÃO DA COBRINHA (opcional):
-   - Crie o arquivo .github/workflows/snake.yml no repositório com seu username
-   - Conteúdo do arquivo: https://github.com/Platane/snk#readme
-   - Depois de um push, a animação é gerada automaticamente nas Actions
-
-4. TYPING SVG:
-   - Personalize as frases em: https://readme-typing-svg.demolab.com
--->
