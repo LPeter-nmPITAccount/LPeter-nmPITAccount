@@ -34,6 +34,7 @@
 
 ```yaml
 tipo:        Conta Acadêmica
+curso:       Tecnólogo de Inteligência Artificial
 objetivo:    Registrar atividades, projetos e exercícios do curso
 conteúdo:    Trabalhos práticos, desafios e aprendizados
 status:      Em constante atualização 📚
